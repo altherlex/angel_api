@@ -3,18 +3,22 @@
 
 A handy NodeJS API for every endpoint needed available on the internet.
 
-## Powered by LoopBack.io
+## Tools
+
+### [LoopBack.io](https://loopback.io/doc/en/lb4/todo-list-tutorial-repository.html)
 
 Commands:
 
 ```bash
-# Start a new app
 $ lb4 angel_api
-# Create a Model
 $ lb4 model
-# Create a DataSource (Mongo)
 $ lb4 datasource
-# Connect a model to a database
 $ lb4 repository
-
 ```
+
+### More
+- mLab database (Mongo DB)
+- Telegram API [link](https://core.telegram.org/bots/api)
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api/blob/master/examples/polling.js)
+- [node-telegram-operation-manager](https://github.com/alexandercerutti/node-telegram-operation-manager/blob/master/examples/operations.ts)
+- [node-telegram-keyboard-wrapper](https://github.com/alexandercerutti/node-telegram-keyboard-wrapper)
